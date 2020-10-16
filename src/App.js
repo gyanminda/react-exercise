@@ -3,7 +3,7 @@ import './App.css';
 
 
 function App() {
-    // TODO: Add other states for the application.
+    // TODO: Add other states for the application
     const [username, setUsername] = React.useState('');
 
     // TODO: Console.log(event) and get the object which has value of the input field.
